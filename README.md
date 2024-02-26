@@ -21,7 +21,7 @@ Soy un persona muy relacionada a la tecnología desde toda mi vida, en diferente
 
 
 ## 🔬Actualmente me encuentro aprendiendo Typescript   
-<table><tr><td valign="top" width="50%">
+
 
 
 </td><td valign="top" width="50%">
@@ -33,7 +33,7 @@ Soy un persona muy relacionada a la tecnología desde toda mi vida, en diferente
 <br/>  
 
 
-## Languages and Tools  
+## Languages
 
 
 ### FrontEnd  

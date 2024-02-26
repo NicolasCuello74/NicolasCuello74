@@ -12,7 +12,7 @@
 
 
 ### Es un gusto que estés en mi perfil  
-Soy un persona muy relacionada a la tecnología desde toda mi vida, en diferentes ramas de la misma, hasta que conocí la programación y me enamore de ella. Me gusta mucho aprender cosas nuevas y experimentar sobre ellas. Mi hobbie es hacer deporte, principalmente fútbol, y también hacer música con guitarra. En cuanto a mis herramientas laborales en el mundo de la programación mis fortalezas se encuentran en el uso de JavaScript, ReactJS, ReduxJS, React Native, Node, Postgress, Sequelize, y Git entre otros.  
+Soy un persona muy relacionada a la tecnología desde toda mi vida, en diferentes ramas de la misma, hasta que conocí la programación y me enamore de ella. Me gusta mucho aprender cosas nuevas y experimentar sobre estas. Mi hobbie es hacer deporte, principalmente fútbol, y también hacer música con guitarra. En cuanto a mis herramientas laborales en el mundo de la programación mis fortalezas se encuentran en el uso de JavaScript, ReactJS, ReduxJS, React Native, Node, Postgress, Sequelize, y Git entre otros.  
   
 
 <br/>  
@@ -26,9 +26,6 @@ Soy un persona muy relacionada a la tecnología desde toda mi vida, en diferente
 
 </td><td valign="top" width="50%">
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
 
 
 </td></tr></table>  

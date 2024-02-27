@@ -11,7 +11,7 @@ Soy un persona muy relacionada a la tecnología desde toda mi vida, en diferente
 <a href="https://github.com/https://github.com/NicolasCuello74" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nicol%C3%A1s-alberto-cuello-16100a25a/" target="_blank">
+<a href="https://linkedin.com/in/www.linkedin.com/in/nicolascuello" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  

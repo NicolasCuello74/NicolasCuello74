@@ -20,7 +20,7 @@ Soy alguien nuevo en el mundo del desarrollo, en busca de experiencia constante 
 <br/>  
 
 
-## 🔬Actualmente me encuentro aprendiendo Typescript   
+## 🔬Actualmente me encuentro aprendiendo Typescript y Next.js
 
 
 

@@ -1,7 +1,7 @@
 ## Hola 👋 soy Nicolás Cuello  
   
 
-Soy alguien nuevo en el mundo del desarrollo, en busca de experiencia constante e ir aprendiendo nuevas tecnologías y formas de aplicarlas para proyectos educativos o laborales. En cuanto a mis herramientas en el mundo de la programación mis fortalezas se encuentran en el uso de JavaScript, ReactJS, ReduxJS, React Native, Node, Postgress, Sequelize, y Git entre otros.  
+Soy alguien nuevo en el mundo del desarrollo, en busca de experiencia constante e ir aprendiendo nuevas tecnologías y formas de aplicarlas para proyectos educativos o laborales. En cuanto a mis herramientas en el mundo de la programación mis fortalezas se encuentran en el uso de JavaScript, ReactJS, ReduxJS, Next js, Node, Postgress, Sequelize, y Git entre otros.  
   
 
 
